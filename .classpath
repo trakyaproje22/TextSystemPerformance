@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/ProjeLib/antlr4-runtime-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/ProjeLib/args4j-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/ProjeLib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/ProjeLib/zemberek-all-0.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/jar/zemberek-az-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/jar/zemberek-cekirdek-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/jar/zemberek-demo-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/jar/zemberek-tk-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/okan/Desktop/PROJE/jar/zemberek-tr-2.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
