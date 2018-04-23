@@ -9,9 +9,7 @@ public class AccuracyCalculating {
 	private static ArrayList<String> UsrSumTextList = new ArrayList<String>();
 	private static ArrayList<String> SysSumTextList = new ArrayList<String>();
 
-	private static String StrText;
-	private static String UsrSumText;
-	private static String SysSumText;
+	private static String StrText; 
 	
 	public static  String[] uzanti = {"koz.txt", ".txt", "o.txt"};
 
@@ -22,44 +20,22 @@ public class AccuracyCalculating {
 		SentenceAnalysis SA = new SentenceAnalysis();
 
 		AccuracyCalculating AC = new AccuracyCalculating();
-//		// OrjinalMetin
-//		for (int i = 1; i < 2; i++) {
-//			StrText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler/" + i + ".txt");
-//			StrTextList.addAll(SI.Sentence(StrText));
-//		}
-//
-//		// KullanıcıÖzetiOlanMetin
-//		for (int i = 1; i < 2; i++) {
-//			UsrSumText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/Ozetler/" + i + "koz.txt");
-//			UsrSumTextList.addAll(SI.Sentence(UsrSumText));
-//		}
-//
-//		// SistemÖzetiOlanMetin
-//		for (int i = 1; i < 2; i++) {
-//			SysSumText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/Ozetler/" + i + "o.txt");
-//			SysSumTextList.addAll(SI.Sentence(SysSumText));
-//		}
 
-		//**********
-		//Farklı iki şekilde de olabilir isterseniz if içerisindeki yorum satırları kalkarak  direk orada atama yapılabilir
-		//İsterseniz de bu şekilde kalıp tek tek atama yapmadan sadece StrText i atayarakta yapılabilir 
-		//Kararınıza göre yorum satırlarını sileriz ya da aktif hale getiririz 
+		//*******
+		// Döngü ile tüm metinleri okuma ve listeye ekleme kısmı
 		
 		for(int j= 1 ; j < 15 ; j++) {
 			for(int i = 0; i < uzanti.length; i++) {
 				
-				StrText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler_deneme/" + j + uzanti[i]);
+				StrText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler/" + j + uzanti[i]);
 				
 				if(uzanti[i] == ".txt") {
-					//StrText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler_deneme/" + j + uzanti[i]);
 					StrTextList.addAll(SA.Sentence(StrText));
 				}
 				else if ( uzanti[i] == "koz.txt") {
-					//UsrSumText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler_deneme/" + j +  uzanti[i]);
 					UsrSumTextList.addAll(SA.Sentence(StrText));
 				}
 				else if ( uzanti[i] == "o.txt") {
-					//SysSumText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler_deneme/" + j +  uzanti[i]);
 					SysSumTextList.addAll(SA.Sentence(StrText));
 				}
 
@@ -98,7 +74,7 @@ public class AccuracyCalculating {
 				FN++;
 			}
 		}
-		FN--;
+		
 		System.out.println("False Negative: " + FN);
 	}
 	private void FalsePossitive() {
@@ -107,7 +83,7 @@ public class AccuracyCalculating {
 				FP++;
 			}
 		}
-		FP--;
+		
 		System.out.println("False Positive: " + FP);
 	}
 }
