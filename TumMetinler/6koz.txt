@@ -1,0 +1,13 @@
+﻿	
+
+The Allen Institute for Brain Science'dan araştırmacılar, tamamen beyin hücreleriyle aynı şekilde çalışabilen, sanal beyin hücreleri üretmeyi başardılar! 
+İnsan beyni, Dünya biliminin yüz yıllardır geliştirdiği bir çok deney ve çalışmayla bile %100 anlaşılamamış bir şey . 
+Bunun en büyük sebebi de, motor işlemlerimizi gerçekleştirirken aynı zamanda komplike düşüncelerimizi barındıran bu organın aslında çalışma biçiminin oldukça karmaşık olması ve yaşayan bir beyin hücresini iş başındayken inceleyemememiz . 
+Fakat "The Allen Institute For Brain Science" araştırmacılarının bu iş için oldukça uygun bir şey üretti: İnsan beyin hücresiyle birebir aynı şekilde çalışabilen sanal beyin hücresi . 
+36 farklı hastada gerçekleştirilen beyin ameliyatları sonucu mecburen alınmak zorunda olan yüzlerce sağlıklı beyin hücresi üzerinde yaptıkları çalışmalar üzerine yaptıkları, 3D modellemeler ve gelişmiş bir yazılım sayesinde, sanal ortamda insan hücresiyle tam olarak aynı çalışan bir beyin hücresi modeli yapılabildi .
+	 
+Bir çok açıdan bilim dünyasını, özellikle de tıp dünyasını oldukça değiştirecek olan bu modelle birlikte bizi korkutan ise, yapay zekaya uyarlanması kısmı oldu . 
+Çünkü Allen Institute'un araştırmasının özetine göre, bu çalışmayla yapılan beyin modeli düşünce sırasında beyinde oluşan sinyalleri de taklit edebilecek .
+
+
+

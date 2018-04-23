@@ -1,0 +1,12 @@
+﻿
+Hayatımıza gittikçe daha fazla entegre olmaya başlayan 120Hz ekranların standart 60Hz ekranlardan farkı nedir hiç düşündünüz mü? 
+iPhone X ve Razer Phone gibi cihazlar ile birlikte monitörlerin dışında akıllı telefon gibi küçük cihazlarda da 120Hz ekranları görmeye başladık . 
+İyi, güzel, herkes 120Hz ekranların 60Hz ekranlardan daha iyi olduğunu söylüyor fakat iki ekran arasındaki farklar nedir? 
+120Hz demek, ekranın saniyede 120 kere yenilenmesi, görüntünün 120 kez yeniden işlenmesi anlamına gelmektedir . 
+Ayrıca 60Hz ekranlarda görüntü bir miktar titremektedir . 
+Bu fark her ne kadar sıradan bir görüntüde çok hassas gözlere sahip insanların ayırabileceği kadar olsa da yüksek fps’lerde rahat bir şekilde fark edilebilir .
+
+120Hz ekranların bir başka önemli özelliği ise 24Hz Blu-ray içerikleri oynatabilmesidir . 
+Çoğu sinema filmleri 24Hz Blu-ray çekilmektedir . 
+60, 24’ün bir katı olmadığı için 60Hz ekranlardan Blu-ray 2-3 yenileme hızında verilebilir . 
+120 ise 24’ün doğrudan katı olduğu için görüntüleri 24Hz olarak verebilmektedir .

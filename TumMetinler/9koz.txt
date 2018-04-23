@@ -1,0 +1,10 @@
+﻿
+Yakın zamanda kullanılmamış uygulamalar için ön bellek dosyası (cache file) üretmeyecek olan Oreo, böylece hafıza kullanımını minimize etmeyi hedefliyor .
+Dahili hafıza oranını 64GB’a yükselten OEM sayısında bir artış görüyoruz ama aynı şeyi orta ve düşük fragmandaki cihazlar için söyleyemeyiz . 
+Zira bu tip cihazlarda dahili hafıza oranı 32GB’tan başlarken, bazılarında 16GB’a varan bir düşüş söz konusu . 
+Google’ın son yayınladığı ‘akıllı depolama yönetim aracı Files Go’ ile anladığımız kadarıyla Google, depolama sorununu tarihe gömmeyi hedefliyor .
+
+Android’in AOSP çatısında yer alan yeni birkaç özellik, bazı uygulamaların otomatik olarak ‘pasif’ statüsüne alınmasını ve bu tip uygulamalar için ön bellekte dosya üretimi işleminin önceliğini arka plana atmayı mümkün kılıyor . 
+Böylece Android, yakın zamanda ön planda kullanılmamış, arka planda da başka bir uygulama paketi tarafından kullanılmayan uygulamaları ‘pasif’ olarak algılayacak . 
+‘Pasif’ olarak işaretlenen bu uygulamalar için ön bellek dosyaları üretilmeyerek, depolama alanından tasarruf edilmiş olacak .
+

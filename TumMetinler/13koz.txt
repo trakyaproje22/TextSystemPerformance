@@ -1,0 +1,16 @@
+﻿	
+Çoğu bilgisayar kullanıcısı, uzun süre bilgisayarı açık tutmanın bilgisayar için zararlı olduğunu düşünür . 
+Peki bu durum gerçek midir ? 
+Eğer uzun süre bilgisayar başında duran ya da geceleri bilgisayarı kapatmayan biriyseniz, tanıdıklarınızdan bilgisayarı uzun süre açık tutmanın zararlı olduğuna dair bir uyarı mutlaka almışsınızdır . 
+Bu efsane, bilgisayarların piyasaya çıktığı ilk günlere kadar dayanmaktadır . 
+O dönemlerde bilgisayarlar, özellikle de bellekler oldukça düşük kapasiteliydi . 
+Bu nedenle bir sonraki gün yeni bir işlem gerçekleştirmeniz için geceleri bilgisayarınızı kapatmanız gerekiyordu . 
+Bilgisayar donanımları ne kadar güçlense de bu gelenek, bir efsane olarak bilgisayar kullanıcıları arasında gezinmeye devam ediyor .
+	
+Günümüz bilgisayarları, çok daha güçlü donanımlara sahiptir . 
+Bu nedenle bilgisayarınızı geceleri kapatmanız şart değildir . 
+Yine de bilgisayarı düzenli olarak kapatıp açmanın bazı faydaları da yok değil . 
+Öncelikle güçten tasarruf etmiş olursunuz. Bilgisayarlar güçlendikçe harcadığı enerji de artmaktadır . 
+Yalnızca uyuduğunuz sırada bilgisayarınızı kapatmak bile her ay %30 enerji tasarrufu yapmanızı sağlayacaktır . 
+Belki sistemlerimiz çok güçlenmiş, bellek kapasitelerimiz binlerce kat artmış olabilir . Fakat hala sınırsız güce sahip değiliz .
+

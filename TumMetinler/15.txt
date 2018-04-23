@@ -1,0 +1,18 @@
+﻿	
+
+Yapılan testlerde siyah rengin hakim olduğu görüntülemelerde yüksek oranlarda batarya tasarrufu sağlandığı görülüyor . 
+Apple’ın Safari tarayıcısını ‘Erişilebilirlik’ özelliğinde kullandığınızda, etkileyici sonuçlar alıyorsunuz . 
+Yapılan bir testte iPhone X, ‘akıllı evrik renkler’ özelliğinin aktif halde bulunduğu bir kullanım esnasında ekran maksimum parlaklığa ayarlanarak, tarayıcıda ‘Reddit’ açık bırakıldı . 
+Reddit normalde beyaz bir arka plan ve siyah yazı renklerine sahip fakat Apple’ın akıllı evrik renkler seçeneği aktif hale getirildiğinde ekranın arka yüzü siyah, yazılar ise beyaz hale geliyor . 
+Bu önemli bir şey zira OLED’de siyah pikseller zorunlu olarak devre dışı kalırlar ve çok daha az güç harcarlar . 
+Siyah renkler de dahil olmak üzere tüm pikselleri ışıklandırmak zorunda olan arka ışık sistemine sahip ‘LCD’ ekranlara göre oldukça büyük bir fark .
+	
+3 saat boyunca maksimum parlaklık ve akıllı evrik renkler özelliğinden sonra iPhone X’un bataryası %100’den, sadece %85’e düştü . 
+Daha sonra aynı testi normal modda çalışan bir iPhone X ile deneyen ekip, arka plan ışığını maksimuma ayarladığında bataryanın %100’den, %28’e düştüğünü görüyor . 
+Yani normalde parlak ve beyaz renklere sahip içerikleri iPhone X’da görüntülerken ‘akıllı evrik renkler’ modunu aktif hale getirmek, bataryada %58 gibi yüksek oranda bir tasarrufu da beraberinde getiriyor . 
+Aynı zamanda gerçek siyah renk duvar kağıdını Apple iOS 11 iPhone X’da 3 saat süreyle deneyen ekip, ana ekran rengini bütünüyle siyah hale getirirken, simgeleri ise normal renklerinde tutuyor . 
+Bu test esnasında akıllı evrik renkler modu devreye alınmıyor ve gri tonlamalar kullanılmıyor . 
+3 saatlik maksimum parlaklık ve siyah duvar kağıdı testi sonrasında iPhone X bataryasının %100’den %77’ye düştüğü görülüyor . 
+Aynı test standart, renkli duvar kağıdının görüntülendiği iPhone X’da da gerçekleştiriliyor ve bataryanın %100’den, %61’e düştüğü görülüyor . 
+İleri derecede parlaklık testine tabi tutulan tam siyah renk duvar kağıdı görüntülenen iPhone X’da ortalama %16 oranında bir batarya tasarrufu sağlandığı ortaya çıkmış oluyor .
+
