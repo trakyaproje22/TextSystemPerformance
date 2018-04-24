@@ -24,7 +24,7 @@ public class AccuracyCalculating {
 		//*******
 		// Döngü ile tüm metinleri okuma ve listeye ekleme kısmı
 		
-		for(int j= 1 ; j < 15 ; j++) {
+		for(int j= 1 ; j < 16 ; j++) {
 			for(int i = 0; i < uzanti.length; i++) {
 				
 				StrText = FRW.FileRead("C:/Users/Kubra/Desktop/YeniMetinler/TumMetinler/" + j + uzanti[i]);
